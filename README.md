@@ -1,6 +1,6 @@
-# big_data_spark
+# Big Data Systems
 
-The objective of this assignment is for you to become more comfortable working with Apache Spark using Scala or Java API. It covers the fundamental functionality of Spark Core and Spark SQL library.
+The objective of this assignment is for you to become more comfortable working with **Apache Spark using Scala**. It covers the fundamental functionality of **Spark Core and Spark SQL library**.
 
 Question 1 (25 points)
 a) Create a Spark program to read the airport data from “/user/b-analytics/assignment/airports.text”, find all the airports which are located in Greece and output the airport's name, the city's name and the airports , IATA/FAA code (15 points)
